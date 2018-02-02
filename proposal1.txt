@@ -1,0 +1,3 @@
+I would like to create a 2d platform game where a ball is supposed to jump across various 
+platforms of different sizes. If the ball fails to make the jump and falls in the spaces 
+inbetween the platfroms you lose a life and resstart the level. 
